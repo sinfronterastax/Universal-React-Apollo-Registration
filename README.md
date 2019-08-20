@@ -567,13 +567,11 @@ The grid should not be used within areas that require custom mark-up (such as yo
 To centre your content, simply apply a 'max-width' to the parent wrapper '.grid'. You can either set this globally within the '_css_grid.scss' partial file or target it specifically via a custom parent class.
 
 
-## Looking for something similar?
-
-[Open Source Universal React Redux Boilerplate](https://github.com/simpletut/React-Starter-Kit)
 
 ## Acknowledgements
 
 This software was developed by Ashley Bibizadeh.
+Fork by DiracPro
 
 ## License
 
